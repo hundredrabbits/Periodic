@@ -1,2 +1,4 @@
 # Periodic
-Our own dependencies manager
+
+Repository for the latest versions of our library files.
+
